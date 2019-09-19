@@ -13,6 +13,7 @@ body {
 }
 
 .wrapper {
+  width: 10vw;
   position: relative;
   padding-top: 56.25%; /* 16:9 Aspect Ratio */
 }
